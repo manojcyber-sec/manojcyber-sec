@@ -16,7 +16,7 @@ I'm focused on building practical cybersecurity skills through hands-on labs and
 - Linux
 - Python Security Automation
 
-### 🛠️ Tools & Technologies
+### Tools & Technologies
 
 **Security:** Splunk, Sysmon, Wireshark, Nmap, Kali Linux  
 **Programming:** Python  
